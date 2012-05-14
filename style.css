@@ -2,11 +2,17 @@
 {
 	margin: 0 50px;
 	background: #fff;
+<<<<<<< HEAD
 	background-color:#318CE7;
+=======
+	cursor:pointer;
+	background-color:grey;
+>>>>>>> 4e295b2a18ace06ef4e7223394973e4a426d2966
 }
 
 #header
 {
+<<<<<<< HEAD
 	background: #ccc;
 	padding: 40px;
 	text-align:center;
@@ -17,6 +23,15 @@
 
 
 }
+=======
+	color:grey;
+	background:black;
+	padding: 20px;
+	text-decoration:blink;
+	text-align:center;
+	font-size:xx-large;
+}	font-style:italic;
+>>>>>>> 4e295b2a18ace06ef4e7223394973e4a426d2966
 
 #header h1 {  margin: 0 50px; }
 
@@ -68,19 +83,30 @@
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
+	background-color:black;
+	color:white;
 }
 
 #edito h2
 {
+<<<<<<< HEAD
 	color: blue;
 	font-size: 160%;
 	margin: 0 0 .5em;
 	text-align:center;
 	
+=======
+	color:white;
+	font-size: 160%;
+	margin: 0 0 .5em;
+	font-style:oblique;
+	background-color:black;
+>>>>>>> 4e295b2a18ace06ef4e7223394973e4a426d2966
 }
 
 #news
-{	
+{	background-color:white;
+	color: #356;
 	float: left;
 	width: 40%;
 	padding: 20px;
@@ -100,9 +126,16 @@
 }
 
 #footer
+<<<<<<< HEAD
 {
 	background-color:pink;
 	clear: both;
+=======
+{	color:white;
+	font-size:x-small;
+	clear: both;
+	background: black;
+>>>>>>> 4e295b2a18ace06ef4e7223394973e4a426d2966
 	text-align: right;
 	padding: 20px;
 	height: 1%;
